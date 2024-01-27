@@ -1,2 +1,0 @@
-# MAKRO-HW
-MAKRO-HW
